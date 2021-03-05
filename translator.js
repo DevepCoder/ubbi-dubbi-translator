@@ -11,4 +11,4 @@ function translator(e) {
             .join("");
     }
 }
-export default translator;
+module.exports = translator;
